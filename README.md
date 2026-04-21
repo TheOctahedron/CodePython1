@@ -2,7 +2,7 @@
 My first Python code is written: 10.01.2026!
 
 ```python
-vegetable = input(What is your favorite vegetable? ")
+vegetable = input("What is your favorite vegetable? ")
 print("=" * 25)
 fruit = input("What is your favorite fruit? ")
 print("=" * 25)
