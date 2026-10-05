@@ -9,3 +9,4 @@ print("=" * 25)
 print(f"Your favorite vegetable – {vegetable}, great choice!")
 print("=" * 25)
 print(f"Your favorite fruit – {fruit}, useful!")
+```
